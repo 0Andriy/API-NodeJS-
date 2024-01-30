@@ -1,0 +1,4 @@
+const UserShema = {
+    email,
+    password,
+}
